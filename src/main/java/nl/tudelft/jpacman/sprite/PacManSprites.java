@@ -94,7 +94,7 @@ public class PacManSprites extends SpriteStore {
             animation.setAnimating(true);
             sprite.put(DIRECTIONS[i], animation);
         }
-
+        int hola;
         return sprite;
     }
 
